@@ -17,7 +17,3 @@ console.log(i)
 for (var i = 10; i>=0 ; i--){
     console.log(i)
     }
-
-// array
-
-var  = []
